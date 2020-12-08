@@ -8,7 +8,7 @@ This game was created by myself and my fellow students, primarily for those who 
 
 *500*
 
-This game was created by myself and my fellow students for a game showcase, for CS 377 at Northwestern University. This game is a 2D platformer built in the Unity engine, heavily inspired by the New York City subway system, Lethal League, and Earthbound.
+This game was created by myself and my fellow students for a game showcase, for CS 377 at Northwestern University. This game is a 2D platformer built in the Unity engine, heavily inspired by the New York City subway system, Lethal League, and Earthbound. Video and image samples of the game are present in the 500-samples folder.
 
 
 *KRR Character Creator* (can be found at https://github.com/chloemb/krr_final_project)
