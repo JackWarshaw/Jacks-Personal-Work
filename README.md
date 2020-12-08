@@ -6,7 +6,7 @@ Hi! This is the repo where I store code snippets, links, and other samples from 
 
 This game was created by myself and my fellow students, primarily for those who have motor disadvantages that dont allow them to easily use standard controllers. Instead this game is controlled using a player's vocal pitch in real time, which lets a user play the game regardless of any motor disadvantages. It was developed for CS 352 at Northwestern University.
 
-*500*
+*.500*
 
 This game was created by myself and my fellow students for a game showcase, for CS 377 at Northwestern University. This game is a 2D platformer built in the Unity engine, heavily inspired by the New York City subway system, Lethal League, and Earthbound. Video and image samples of the game are present in the 500-samples folder.
 
