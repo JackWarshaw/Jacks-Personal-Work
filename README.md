@@ -14,3 +14,7 @@ This game was created by myself and my fellow students for a game showcase, for 
 *KRR Character Creator* (can be found at https://github.com/chloemb/krr_final_project)
 
 A character generator for the tabletop roleplaying game Dungeons & Dragons (5th edition) developed by myself and my fellow students. It runs off a series of of queries made on a custom language centered knowledge base (developed by a team at Northwestern University). This project was developed for CS 396 at Northwestern University.
+
+*Udacity Classwork* 
+
+This is the work I compiled for my Udacity nanodegree, AI for Healthcare. This includes a Tensorflow based selection system to find the ideal candidates for testing a diabetes drug based on medical files, a segmentation algorithm to ease doctors finding the location and volume of the hippocampus in 3d medical images, and a predictive model for the presence of Pneumonia in x-rays to give greater clinician priority to higher risk patients.
