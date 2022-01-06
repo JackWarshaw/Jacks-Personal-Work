@@ -10,17 +10,17 @@ This game was created by myself and my fellow students for a game showcase, for 
 
 <br>
 
-<h3>Cosmic Scale</h3> (can be found at https://chloemb.github.io/352project/)
+<h3>Cosmic Scale</h3>
 
 ![Cosmic Scale](./docs/assets/images/CosmicScale.png)
 
-This game was created by myself and my fellow students, primarily for those who have motor disadvantages that dont allow them to easily use standard controllers. Instead this game is controlled using a player's vocal pitch in real time, which lets a user play the game regardless of any motor disadvantages. It was developed for CS 352 at Northwestern University.
+This game was created by myself and my fellow students, primarily for those who have motor disadvantages that dont allow them to easily use standard controllers. Instead this game is controlled using a player's vocal pitch in real time, which lets a user play the game regardless of any motor disadvantages. It was developed for CS 352 at Northwestern University, and more information can be found at the page [here](https://chloemb.github.io/352project/).
 
 <br>
 
-<h3>KRR Character Creator</h3> (can be found at https://github.com/chloemb/krr_final_project)
+<h3>KRR Character Creator</h3>
 
-A character generator for the tabletop roleplaying game Dungeons & Dragons (5th edition) developed by myself and my fellow students. It runs off a series of of queries made on a custom language centered knowledge base (developed by a team at Northwestern University). This project was developed for CS 396 at Northwestern University.
+A character generator for the tabletop roleplaying game Dungeons & Dragons (5th edition) developed by myself and my fellow students. It runs off a series of of queries made on a custom language centered knowledge base (developed by a team at Northwestern University). This project was developed for CS 396 at Northwestern University, and more information can be found at the page [here](https://github.com/chloemb/krr_final_project).
 
 <br>
 
