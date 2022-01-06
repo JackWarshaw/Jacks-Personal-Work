@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+# Personal Work
+Hi! This is the repo where I store code snippets, links, and other samples from projects I have worked on. I hope you enjoy my work!
 
-You can use the [editor on GitHub](https://github.com/JackWarshaw/updated_personal_work/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+*Cosmic Scale* (can be found at https://chloemb.github.io/352project/)
 
-### Markdown
+This game was created by myself and my fellow students, primarily for those who have motor disadvantages that dont allow them to easily use standard controllers. Instead this game is controlled using a player's vocal pitch in real time, which lets a user play the game regardless of any motor disadvantages. It was developed for CS 352 at Northwestern University.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+*.500*
 
-```markdown
-Syntax highlighted code block
+This game was created by myself and my fellow students for a game showcase, for CS 377 at Northwestern University. This game is a 2D platformer built in the Unity engine, heavily inspired by the New York City subway system, Lethal League, and Earthbound. Video and image samples of the game are present in the 500-samples folder.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+*KRR Character Creator* (can be found at https://github.com/chloemb/krr_final_project)
 
-1. Numbered
-2. List
+A character generator for the tabletop roleplaying game Dungeons & Dragons (5th edition) developed by myself and my fellow students. It runs off a series of of queries made on a custom language centered knowledge base (developed by a team at Northwestern University). This project was developed for CS 396 at Northwestern University.
 
-**Bold** and _Italic_ and `Code` text
+*Udacity Classwork* 
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JackWarshaw/updated_personal_work/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+This is the work I compiled for my Udacity nanodegree, AI for Healthcare. This includes a Tensorflow based selection system to find the ideal candidates for testing a diabetes drug based on medical files, a segmentation algorithm to ease doctors finding the location and volume of the hippocampus in 3d medical images, and a predictive model for the presence of Pneumonia in x-rays to give greater clinician priority to higher risk patients.
