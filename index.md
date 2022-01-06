@@ -10,10 +10,6 @@ This game was created by myself and my fellow students, primarily for those who 
 
 ![.500](./docs/assets/images/500_Sample.gif)
 
-![.500](https://github.com/JackWarshaw/Jacks-Personal-Work/blob/45f3ed006f9d4ed3513e71f68d9a8b566ca82a55/docs/assets/images/500_Sample.gif)
-
-<img src="https://github.com/JackWarshaw/Jacks-Personal-Work/blob/45f3ed006f9d4ed3513e71f68d9a8b566ca82a55/docs/assets/images/500_Sample.gif" height=250 width=450 alt=".500">
-
 This game was created by myself and my fellow students for a game showcase, for CS 377 at Northwestern University. This game is a 2D platformer built in the Unity engine, heavily inspired by the New York City subway system, Lethal League, and Earthbound. Video and image samples of the game are present in the 500-samples folder.
 
 
