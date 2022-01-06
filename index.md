@@ -8,6 +8,8 @@ This game was created by myself and my fellow students, primarily for those who 
 
 **.500**
 
+![.500](./docs/assets/images/500_Sample.gif)
+
 ![.500](https://github.com/JackWarshaw/Jacks-Personal-Work/blob/45f3ed006f9d4ed3513e71f68d9a8b566ca82a55/docs/assets/images/500_Sample.gif)
 
 <img src="https://github.com/JackWarshaw/Jacks-Personal-Work/blob/45f3ed006f9d4ed3513e71f68d9a8b566ca82a55/docs/assets/images/500_Sample.gif" height=250 width=450 alt=".500">
