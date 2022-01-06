@@ -6,7 +6,7 @@ Here is a selection of the games, tools, and projects that I have had the pleasu
 
 ![.500](./docs/assets/images/500_Sample.gif)
 
-This game was created by myself and my fellow students for a game showcase, for CS 377 at Northwestern University. This game is a 2D platformer built in the Unity engine, heavily inspired by the New York City subway system, Lethal League, and Earthbound. Video and image samples of the game are present in the 500-samples folder.
+This game was created by myself and my fellow students for a game showcase, for CS 377 at Northwestern University. This game is a 2D platformer built in the Unity engine, heavily inspired by the New York City subway system, Lethal League, and Earthbound. Video and image samples of the game are present in the 500-samples folder for this project on GitHub.
 
 <br>
 
@@ -26,4 +26,4 @@ A character generator for the tabletop roleplaying game Dungeons & Dragons (5th 
 
 <h3>Udacity Classwork</h3>
 
-This is the work I compiled for my Udacity nanodegree, AI for Healthcare. This includes a Tensorflow based selection system to find the ideal candidates for testing a diabetes drug based on medical files, a segmentation algorithm to ease doctors finding the location and volume of the hippocampus in 3d medical images, and a predictive model for the presence of Pneumonia in x-rays to give greater clinician priority to higher risk patients.
+This is the work I compiled for my Udacity nanodegree, AI for Healthcare. This includes a Tensorflow based selection system to find the ideal candidates for testing a diabetes drug based on medical files, a segmentation algorithm to ease doctors finding the location and volume of the hippocampus in 3d medical images, and a predictive model for the presence of Pneumonia in x-rays to give greater clinician priority to higher risk patients. Samples of my work for this program can be found in the Udacity Work folder for this project on GitHub. 
