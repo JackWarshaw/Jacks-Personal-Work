@@ -16,7 +16,7 @@ Here is a selection of the games, tools, and projects that I have had the pleasu
 
 <h3>"Hey Aida!" Pitch Deck</h3>
 
-<img src="./docs/assets/images/Hey_Aida_Presentation_Slide.png">
+<img src="./docs/assets/images/Hey_Aida_Presentation_Slide.png" width=70% height=70%>
  
 Created during my time with The Gotham Film and Media Institue, the "Hey Aida!" pitch deck focuses on the premise and broad story strokes for a proposed animated series of the same name. This was accompanied by a full length presentation to top industry professionals in entertainment, and can be found in full [here]( https://www.canva.com/design/DAElXVUasew/i11icLHf3PQJlpQBXQd-3Q/view?utm_content=DAElXVUasew&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink). 
 
