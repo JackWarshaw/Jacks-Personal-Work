@@ -4,7 +4,7 @@ Here is a selection of the games, tools, and projects that I have had the pleasu
 
 <h3>.500</h3>
 
-![.500](./docs/assets/images/500_Sample.gif)
+![.500](./docs/assets/images/500_Sample_1.gif)
 
 .500 was created by myself and my fellow students in CS 377 at Northwestern University. This game is a 2D platformer built in the Unity engine, heavily inspired by the New York City subway system, Lethal League, and Earthbound. Video and image samples of the game are present in the 500-samples folder for this project on GitHub.
 
