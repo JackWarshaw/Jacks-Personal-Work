@@ -6,7 +6,15 @@ Here is a selection of the games, tools, and projects that I have had the pleasu
 
 ![.500](./docs/assets/images/500_Sample.gif)
 
-This game was created by myself and my fellow students for a game showcase, for CS 377 at Northwestern University. This game is a 2D platformer built in the Unity engine, heavily inspired by the New York City subway system, Lethal League, and Earthbound. Video and image samples of the game are present in the 500-samples folder for this project on GitHub.
+.500 was created by myself and my fellow students in CS 377 at Northwestern University. This game is a 2D platformer built in the Unity engine, heavily inspired by the New York City subway system, Lethal League, and Earthbound. Video and image samples of the game are present in the 500-samples folder for this project on GitHub.
+
+<br>
+
+<h3>"Hey Aida!" Pitch Deck</h3>
+
+![Hey Aida Presentation] (./docs/assets/images/Hey_Aida_Presentation_Slide)
+
+Created during my time with The Gotham Film and Media Institue, the "Hey Aida!" pitch deck focuses on the premise and broad story strokes for a proposed animated series of the same name. This was accompanied by a full length presentation to top industry professionals in entertainment, and can be found in full [here]( https://www.canva.com/design/DAElXVUasew/i11icLHf3PQJlpQBXQd-3Q/view?utm_content=DAElXVUasew&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink). 
 
 <br>
 
@@ -14,7 +22,7 @@ This game was created by myself and my fellow students for a game showcase, for 
 
 ![Cosmic Scale](./docs/assets/images/CosmicScale.png)
 
-This game was created by myself and my fellow students, primarily for those who have motor disadvantages that dont allow them to easily use standard controllers. Instead this game is controlled using a player's vocal pitch in real time, which lets a user play the game regardless of any motor disadvantages. It was developed for CS 352 at Northwestern University, and more information can be found at the page [here](https://chloemb.github.io/352project/).
+Cosmic Scale was created by myself and a group of other students at Northwestern University, primarily for those who have motor disadvantages that dont allow them to easily use standard controllers. Instead this game is controlled using a player's vocal pitch in real time, which lets a user play the game regardless of any motor disadvantages. It was developed for CS 352 at Northwestern University, and more information can be found at the page [here](https://chloemb.github.io/352project/).
 
 <br>
 
