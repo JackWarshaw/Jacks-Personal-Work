@@ -1,5 +1,5 @@
 # Personal Portfolio
-The work below includes technical and design work in games, along side my creative work in entertainment. I hope you enjoy!
+The work below includes technical and design work in games and technology, along side my creative work in entertainment. I hope you enjoy!
 <br>
 
 <h3>.500</h3>
