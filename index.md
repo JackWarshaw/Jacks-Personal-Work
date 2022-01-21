@@ -6,7 +6,7 @@ Here is a selection of the games, tools, and projects that I have had the pleasu
 
 ![.500](./docs/assets/images/500_Sample_1.gif)
 
-.500 was created by myself and my fellow students in CS 377 at Northwestern University. This game is a 2D platformer built in the Unity engine, heavily inspired by the New York City subway system, Lethal League, and Earthbound. Video and image samples of the game are present in the 500-samples folder for this project on GitHub.
+.500 was created by myself and my fellow students in CS 377 at Northwestern University, with my main focus on level and mechanical design, alongside the development of the codebase. This game is a 2D platformer built in the Unity engine, heavily inspired by the New York City subway system, Lethal League, and Earthbound. Video and image samples of the game are present in the 500-samples folder for this project on GitHub.
 
 
 
@@ -30,7 +30,7 @@ Created during my time with The Gotham Film and Media Institue, the "Hey Aida!" 
 
 ![Cosmic Scale](./docs/assets/images/CosmicScale.png)
 
-Cosmic Scale was created by myself and a group of other students at Northwestern University, primarily for those who have motor disadvantages that dont allow them to easily use standard controllers. Instead this game is controlled using a player's vocal pitch in real time, which lets a user play the game regardless of any motor disadvantages. It was developed for CS 352 at Northwestern University, and more information can be found at the page [here](https://chloemb.github.io/352project/).
+Cosmic Scale was created by myself and a group of other students at Northwestern University, primarily for those who have motor disadvantages that dont allow them to easily use standard controllers. Instead this game is controlled using a player's vocal pitch in real time, which lets a user play the game regardless of any motor disadvantages. My main focus on this project was regarding the design of the game's mechanics and parsing the incoming audio signals during pre-processing. It was developed for CS 352 at Northwestern University, and more information can be found at the page [here](https://chloemb.github.io/352project/).
 
 
 
