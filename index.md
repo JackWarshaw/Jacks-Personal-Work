@@ -16,7 +16,7 @@ Here is a selection of the games, tools, and projects that I have had the pleasu
 <h3>Flocking Hell</h3>
 
 
-Flocking Hell is a boardgame that started development during the NYU Global Game Jam 2022, and won the award for **Best Non-Digital Game**. It is a dueling style game in which you build up two flocks of bird spread over two boards, moving through Hell to build each other's strength as you hunt your opponent. My primary focus was on the game design (mechanics) and narrative design. You can find out more information on the game's itch.io page [here](https://heliosraapollo.itch.io/flocking-hell?secret=Fl0fKisAXHtmMLYlcXu6GBHopY). 
+Flocking Hell is a boardgame that started development during the NYU Global Game Jam 2022, and won the award for **Best Non-Digital Game**. It is a dueling style game in which you build up two flocks of bird spread over two boards, moving through Hell to build each other's strength as you hunt your opponent. My primary focus was on the game design (mechanics) and narrative design. You can find out more information as we continue the game's development on the game's itch.io page [here](https://heliosraapollo.itch.io/flocking-hell?secret=Fl0fKisAXHtmMLYlcXu6GBHopY). 
 
 
  ---
