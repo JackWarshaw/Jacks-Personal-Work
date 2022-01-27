@@ -50,7 +50,7 @@ Cosmic Scale was created by myself and a group of other students at Northwestern
 
 <h3>KRR Character Creator</h3>
 
-A character generator for the tabletop roleplaying game Dungeons & Dragons (5th edition) developed by myself and my fellow students. It runs off a series of of queries made on a custom language centered knowledge base (developed by a team at Northwestern University). This project was developed for CS 396 at Northwestern University, and more information can be found at the page [here](https://github.com/chloemb/krr_final_project).
+A character generator for the tabletop roleplaying game Dungeons & Dragons (5th edition) developed by myself and my fellow students. It runs off a series of of queries made on a custom language centered knowledge base (developed by a team at Northwestern University). During the course of development I set up large parts of the logic for the queries and curated the terms used by the knowledge base to represent pivotal concepts from D&D mechanics. This project was developed for CS 396 at Northwestern University, and more information can be found at the page [here](https://github.com/chloemb/krr_final_project).
 
 
 
