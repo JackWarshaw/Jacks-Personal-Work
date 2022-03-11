@@ -58,7 +58,7 @@ You can find out more information as we continue the game's development on the g
 
 <h3> Find More : </h3> 
 
-The pitch deck for "Hey Aida!" can be found in [here]( https://www.canva.com/design/DAElXVUasew/i11icLHf3PQJlpQBXQd-3Q/view?utm_content=DAElXVUasew&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+The pitch deck for "Hey Aida!" can be found in [here]( https://www.canva.com/design/DAElXVUasew/i11icLHf3PQJlpQBXQd-3Q/view?utm_content=DAElXVUasew&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink).
 
 
 
@@ -95,7 +95,7 @@ A character generator for the tabletop roleplaying game Dungeons & Dragons (5th 
 
 <h3> The Team : </h3> Irinel Bandas, Chloe Brown, Kartik Kesavabhotla
 
-<h3> My Role : </h3> Logic Designer, 
+<h3> My Role : </h3> Logic Designer, Software Devloper
 
 <h3> Status : </h3> Student Project for Northwestern University, Released
 
