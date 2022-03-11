@@ -2,22 +2,42 @@
 Here is a selection of the games, tools, and projects that I have had the pleasure of working on, both technical and creative. I hope you enjoy!
 <br>
 
-<h3>.500</h3>
+<h1>.500</h1>
 
 ![.500](./docs/assets/images/500_Sample_1.gif)
 
-.500 was created by myself and my fellow students in CS 377 at Northwestern University, with my main focus on level and mechanical design, alongside the development of the codebase. This game is a 2D platformer built in the Unity engine, heavily inspired by the New York City subway system, Lethal League, and Earthbound. Video and image samples of the game are present in the 500-samples folder for this project on GitHub.
+<h3> Description : </h3> .500 is a 2D platformer built in Unity, and was heavily inspired by the New York City subway system, Lethal League, and Earthbound. 
+
+<h3> The Team : </h3> Emmet Hilly, John Murawski 
+
+<h3> My Role : </h3>  Level Designer, Mechanics Designer, Narrative Designer
+
+<h3> Status : </h3> Student Project for Northwestern, Not Publicaly Available
+
+<h3> Find More : </h3> 
+
+Video and image samples of the game can be found [here](https://github.com/JackWarshaw/Jacks-Personal-Work/tree/main/500-samples).
 
 
 
 ---
 
 
-<h3>Flocking Hell</h3>
+<h1>Flocking Hell</h1>
 
 <img src="docs/assets/images/Flocking Hell Logo-1.png.png">
 
-Flocking Hell is a boardgame that started development during the NYU Global Game Jam 2022, and won the award for **Best Non-Digital Game**. It is a dueling style game in which you build up two flocks of bird spread over two boards, moving through Hell to build each other's strength as you hunt your opponent. My primary focus was on the game design (mechanics) and narrative design. You can find out more information as we continue the game's development on the game's itch.io page [here](https://heliosraapollo.itch.io/flocking-hell?secret=Fl0fKisAXHtmMLYlcXu6GBHopY). 
+<h3> Description : </h3>
+
+Flocking Hell, awarded **Best Non-Digital Game** at the NYU Global Game Jam 2022, is a dueling style game in which you build up two flocks of bird spread over two boards, moving through Hell to build each other's strength as you hunt your opponent.
+
+<h3> The Team : </h3>
+
+<h3> My Role : </h3>
+
+<h3> Find More : </h3> 
+
+ My primary focus was on the game design (mechanics) and narrative design. You can find out more information as we continue the game's development on the game's itch.io page [here](https://heliosraapollo.itch.io/flocking-hell?secret=Fl0fKisAXHtmMLYlcXu6GBHopY). 
 
 
  ---
@@ -27,7 +47,13 @@ Flocking Hell is a boardgame that started development during the NYU Global Game
 <h3>"Hey Aida!" Pitch Deck</h3>
 
 <img src="./docs/assets/images/Hey_Aida_Presentation_Slide.png">
- 
+
+<h3> Description : </h3>
+
+<h3> My Role : </h3> 
+
+<h3> Find More : </h3> 
+
 Created during my time with The Gotham Film and Media Institue, the "Hey Aida!" pitch deck focuses on the premise and broad story strokes for a proposed animated series of the same name. This was accompanied by a full length presentation to top industry professionals in entertainment, and can be found in full [here]( https://www.canva.com/design/DAElXVUasew/i11icLHf3PQJlpQBXQd-3Q/view?utm_content=DAElXVUasew&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink). 
 
 
@@ -40,6 +66,14 @@ Created during my time with The Gotham Film and Media Institue, the "Hey Aida!" 
 
 ![Cosmic Scale](./docs/assets/images/CosmicScale.png)
 
+<h3> Description : </h3>
+
+<h3> The Team : </h3>
+
+<h3> My Role : </h3> 
+
+<h3> Find More : </h3> 
+
 Cosmic Scale was created by myself and a group of other students at Northwestern University, primarily for those who have motor disadvantages that dont allow them to easily use standard controllers. Instead this game is controlled using a player's vocal pitch in real time, which lets a user play the game regardless of any motor disadvantages. My main focus on this project was regarding the design of the game's mechanics and parsing the incoming audio signals during pre-processing. It was developed for CS 352 at Northwestern University, and more information can be found at the page [here](https://chloemb.github.io/352project/).
 
 
@@ -50,6 +84,14 @@ Cosmic Scale was created by myself and a group of other students at Northwestern
 
 <h3>KRR Character Creator</h3>
 
+<h3> Description : </h3>
+
+<h3> The Team : </h3>
+
+<h3> My Role : </h3> 
+
+<h3> Find More : </h3> 
+
 A character generator for the tabletop roleplaying game Dungeons & Dragons (5th edition) developed by myself and my fellow students. It runs off a series of of queries made on a custom language centered knowledge base (developed by a team at Northwestern University). During the course of development I set up large parts of the logic for the queries and curated the terms used by the knowledge base to represent pivotal concepts from D&D mechanics. This project was developed for CS 396 at Northwestern University, and more information can be found at the page [here](https://github.com/chloemb/krr_final_project).
 
 
@@ -59,5 +101,11 @@ A character generator for the tabletop roleplaying game Dungeons & Dragons (5th 
 
 
 <h3>Udacity Classwork</h3>
+
+<h3> Description : </h3>
+
+<h3> My Role : </h3> 
+
+<h3> Find More : </h3> 
 
 This is the work I compiled for my Udacity nanodegree, AI for Healthcare. This includes a Tensorflow based selection system to find the ideal candidates for testing a diabetes drug based on medical files, a segmentation algorithm to ease doctors finding the location and volume of the hippocampus in 3d medical images, and a predictive model for the presence of Pneumonia in x-rays to give greater clinician priority to higher risk patients. Samples of my work for this program can be found in the Udacity Work folder for this project on GitHub. 
