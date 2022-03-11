@@ -12,7 +12,7 @@ Here is a selection of the games, tools, and projects that I have had the pleasu
 
 <h3> My Role : </h3>  Level Designer, Mechanics Designer, Narrative Designer
 
-<h3> Status : </h3> Student Project for Northwestern University, Not Publicaly Available
+<h3> Status : </h3> Student Project for Northwestern University, Not Publicly Available
 
 <h3> Find More : </h3> 
 
@@ -91,7 +91,7 @@ More information can be found [here](https://chloemb.github.io/352project/).
 <h3>KRR Character Creator</h3>
 
 <h3> Description : </h3> 
-A character generator for the tabletop roleplaying game Dungeons & Dragons (5th edition) developed by myself and my fellow students. It runs off a series of of queries made on a custom language centered knowledge base (developed by a team at Northwestern University)
+A character generator for the tabletop roleplaying game Dungeons & Dragons (5th edition) developed by myself and my fellow students. It runs off a series of of queries made on a custom language centered knowledge base.
 
 <h3> The Team : </h3> Irinel Bandas, Chloe Brown, Kartik Kesavabhotla
 
