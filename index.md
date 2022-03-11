@@ -12,7 +12,7 @@ Here is a selection of the games, tools, and projects that I have had the pleasu
 
 <h3> My Role : </h3>  Level Designer, Mechanics Designer, Narrative Designer
 
-<h3> Status : </h3> Student Project for Northwestern, Not Publicaly Available
+<h3> Status : </h3> Student Project for Northwestern University, Not Publicaly Available
 
 <h3> Find More : </h3> 
 
@@ -29,32 +29,36 @@ Video and image samples of the game can be found [here](https://github.com/JackW
 
 <h3> Description : </h3>
 
-Flocking Hell, awarded **Best Non-Digital Game** at the NYU Global Game Jam 2022, is a dueling style game in which you build up two flocks of bird spread over two boards, moving through Hell to build each other's strength as you hunt your opponent.
+Flocking Hell, awarded **Best Non-Digital Game** at the NYU Global Game Jam 2022, is a dueling board game in which you and a rival build up  flocks of bird spread over two boards, moving them through Hell to send them boons and ailments.
 
-<h3> The Team : </h3>
+<h3> The Team : </h3> Titus Pahn, KFPlumePal
 
-<h3> My Role : </h3>
+<h3> My Role : </h3> Game Design, Narrative Design, Writing
+
+<h3> Status : </h3> In Development
 
 <h3> Find More : </h3> 
 
- My primary focus was on the game design (mechanics) and narrative design. You can find out more information as we continue the game's development on the game's itch.io page [here](https://heliosraapollo.itch.io/flocking-hell?secret=Fl0fKisAXHtmMLYlcXu6GBHopY). 
+You can find out more information as we continue the game's development on the game's itch.io page [here](https://heliosraapollo.itch.io/flocking-hell?secret=Fl0fKisAXHtmMLYlcXu6GBHopY). 
 
 
  ---
  
  
 
-<h3>"Hey Aida!" Pitch Deck</h3>
+<h3>Hey Aida!</h3>
 
 <img src="./docs/assets/images/Hey_Aida_Presentation_Slide.png">
 
-<h3> Description : </h3>
+<h3> Description : </h3> Created during my time with The Gotham Film and Media Institue, "Hey Aida!" is an animated series about a dysfunctional virtual assistant. Currently there is a full length presentation and pitch deck for the series, and the pilot is in development. 
 
-<h3> My Role : </h3> 
+<h3> My Role : </h3> Writer, Creator
+
+<h3> Status : </h3> In Development
 
 <h3> Find More : </h3> 
 
-Created during my time with The Gotham Film and Media Institue, the "Hey Aida!" pitch deck focuses on the premise and broad story strokes for a proposed animated series of the same name. This was accompanied by a full length presentation to top industry professionals in entertainment, and can be found in full [here]( https://www.canva.com/design/DAElXVUasew/i11icLHf3PQJlpQBXQd-3Q/view?utm_content=DAElXVUasew&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink). 
+The pitch deck for "Hey Aida!" can be found in [here]( https://www.canva.com/design/DAElXVUasew/i11icLHf3PQJlpQBXQd-3Q/view?utm_content=DAElXVUasew&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 
 
@@ -66,15 +70,17 @@ Created during my time with The Gotham Film and Media Institue, the "Hey Aida!" 
 
 ![Cosmic Scale](./docs/assets/images/CosmicScale.png)
 
-<h3> Description : </h3>
+<h3> Description : </h3> Cosmic Scale is a 2D infinite runner developed in PyGame, primarily for individuals who have issus with motor control. Rather than using a standard controller, players of Cosmic Scale will use the pitch of their voice to move their character, making a normally reflex centered genre accessible to whole new players. 
 
-<h3> The Team : </h3>
+<h3> The Team : </h3> Chloe Brown, Katrina Parekh
 
-<h3> My Role : </h3> 
+<h3> My Role : </h3> Game Designer, Audio Engineer, Programmer
+
+<h3> Status : </h3> Student Project for Northwestern University, Released
 
 <h3> Find More : </h3> 
 
-Cosmic Scale was created by myself and a group of other students at Northwestern University, primarily for those who have motor disadvantages that dont allow them to easily use standard controllers. Instead this game is controlled using a player's vocal pitch in real time, which lets a user play the game regardless of any motor disadvantages. My main focus on this project was regarding the design of the game's mechanics and parsing the incoming audio signals during pre-processing. It was developed for CS 352 at Northwestern University, and more information can be found at the page [here](https://chloemb.github.io/352project/).
+More information can be found [here](https://chloemb.github.io/352project/).
 
 
 
