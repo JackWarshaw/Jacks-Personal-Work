@@ -6,8 +6,9 @@ Here is a selection of the games, tools, and projects that I have had the pleasu
 
 ![.500](./docs/assets/images/500_Sample_1.gif)
 
-<h3> Description : </h3> .500 is a 2D platformer built in Unity, and was heavily inspired by the New York City subway system, Lethal League, and Earthbound. <br>
+<h3> Description : </h3> .500 is a 2D platformer built in Unity, and was heavily inspired by the New York City subway system, Lethal League, and Earthbound. 
 
+<br>
 
 <h3> The Team : </h3> Emmet Hilly, John Murawski <br>
 
