@@ -45,7 +45,7 @@ Flocking Hell, awarded **Best Non-Digital Game** at the NYU Global Game Jam 2022
 
 <h3>  </h3> 
 
-<h3> My Role : </h3> Game Design, Narrative Design, Writing  
+<h3> My Role : </h3> Game Designer, Narrative Designer, Writer  
 
 <h3>  </h3> 
 
@@ -55,11 +55,40 @@ Flocking Hell, awarded **Best Non-Digital Game** at the NYU Global Game Jam 2022
 
 <h3> Find More : </h3> 
 
-You can find out more information as we continue the game's development on the game's itch.io page [here](https://heliosraapollo.itch.io/flocking-hell?secret=Fl0fKisAXHtmMLYlcXu6GBHopY). 
+You can find out more information (and a playable prototype) as we continue the game's development on the its itch.io page [here](https://heliosraapollo.itch.io/flocking-hell?secret=Fl0fKisAXHtmMLYlcXu6GBHopY). 
 
 
  ---
+
+
+<h1>Palette Swap</h1>
+
+<img src="docs/assets/images/Palette Swap-1.png">
+
+<h3> Description : </h3>
+
+Palette Swap is an educational party game about paint and its properties, combining the digital and tabletop game spaces as they try to best serve our digital curator's taste for color. 
+
+<h3>  </h3> 
+
+<h3> The Team : </h3> Edikan Abia
+
+<h3>  </h3> 
+
+<h3> My Role : </h3> Game Programmer, Game Designer
+
+<h3>  </h3> 
+
+<h3> Status : </h3> Student Project for NYU, In Development  
+
+<h3>  </h3> 
+
+<h3> Find More : </h3> 
+
+You can find out more information (along with a playable prototype) [here](). 
+
  
+---
  
 
 <h3>Hey Aida!</h3>
