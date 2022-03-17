@@ -61,6 +61,36 @@ You can find out more information as we continue the game's development on the g
  ---
  
  
+<h1>ResuMaybe</h1>
+
+<img src="docs/assets/images/Flocking Hell Logo-1.png.png">
+
+<h3> Description : </h3>
+
+ResuMaybe is a resume-building tabletop roleplaying game, where you play as either an Interviewer looking to fill a newly opened position, or an Applicant with a randomly filled resume and no knowledge of what the job might be. With only one position up for grabs, it's up to the Interviewer to ask questions that will help them find the right candidate for them, while the Applicants fight to figure out the job and tailor their answers to be awarded with a shiny new job for their resume. 
+
+<h3>  </h3> 
+
+<h3> The Team : </h3> Edikan Abia, James Martini, Raymond Lothian, Kimari Rennis
+
+<h3>  </h3> 
+
+<h3> My Role : </h3> Game Design, Narrative Design, Writing  
+
+<h3>  </h3> 
+
+<h3> Status : </h3> Student Project for NYU, In Development 
+
+<h3>  </h3> 
+
+<h3> Find More : </h3> 
+
+Screenshots of the game are available [here](), and a playable version will be released soon! 
+
+
+ ---
+ 
+ 
 
 <h3>Hey Aida!</h3>
 
