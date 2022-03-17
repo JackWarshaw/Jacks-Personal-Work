@@ -85,7 +85,7 @@ ResuMaybe is a resume-building tabletop roleplaying game, where you play as eith
 
 <h3> Find More : </h3> 
 
-Screenshots of the game are available [here](), and a playable version will be released soon! 
+Screenshots of the game are available [here](https://github.com/JackWarshaw/Jacks-Personal-Work/tree/main/ResuMaybe), and a playable version will be released soon! 
 
 
  ---
