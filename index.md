@@ -63,7 +63,7 @@ You can find out more information as we continue the game's development on the g
  
 <h1>ResuMaybe</h1>
 
-<img src="docs/assets/images/Flocking Hell Logo-1.png.png">
+<img src="docs/assets/images/ResuMaybe Materials.jpg">
 
 <h3> Description : </h3>
 
