@@ -65,6 +65,8 @@ You can find out more information as we continue the game's development on the g
 
 <img src="docs/assets/images/ResuMaybe Materials.jpg">
 
+<h3> </h3>
+
 <h3> Description : </h3>
 
 ResuMaybe is a resume-building tabletop roleplaying game, where you play as either an Interviewer looking to fill a newly opened position, or an Applicant with a randomly filled resume and no knowledge of what the job might be. With only one position up for grabs, it's up to the Interviewer to ask questions that will help them find the right candidate for them, while the Applicants fight to figure out the job and tailor their answers to be awarded with a shiny new job for their resume. 
@@ -95,6 +97,8 @@ Screenshots of the game are available [here](https://github.com/JackWarshaw/Jack
 <h3>Hey Aida!</h3>
 
 <img src="./docs/assets/images/Hey_Aida_Presentation_Slide.png">
+
+<h3> </h3>
 
 <h3> Description : </h3> Created during my time with The Gotham Film and Media Institue, "Hey Aida!" is an animated series about a dysfunctional virtual assistant. Currently there is a full length presentation and pitch deck for the series, and the pilot is in development.  
 
