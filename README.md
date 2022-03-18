@@ -1,14 +1,21 @@
 # Personal Work
 Hi! This is the repo where I store code snippets, links, and other samples from projects I have worked on. I hope you enjoy my work!
 
+*ResuMaybe*
 
-*Cosmic Scale* (can be found at https://chloemb.github.io/352project/)
-
-This game was created by myself and my fellow students, primarily for those who have motor disadvantages that dont allow them to easily use standard controllers. Instead this game is controlled using a player's vocal pitch in real time, which lets a user play the game regardless of any motor disadvantages. It was developed for CS 352 at Northwestern University.
+ResuMaybe is a resume-building tabletop roleplaying game, where you play as either an Interviewer looking to fill a newly opened position, or an Applicant with a randomly filled resume and no knowledge of what the job might be. With only one position up for grabs, it's up to the Interviewer to ask questions that will help them find the right candidate for them, while the Applicants fight to figure out the job and tailor their answers to be awarded with a shiny new job for their resume.
 
 *.500*
 
 This game was created by myself and my fellow students for a game showcase, for CS 377 at Northwestern University. This game is a 2D platformer built in the Unity engine, heavily inspired by the New York City subway system, Lethal League, and Earthbound. Video and image samples of the game are present in the 500-samples folder.
+
+*Flocking Hell* (can be found at https://heliosraapollo.itch.io/flocking-hell)
+
+Flocking Hell, awarded Best Non-Digital Game at the NYU Global Game Jam 2022, is a dueling board game in which you and a rival build up flocks of bird spread over two boards, moving them through Hell to send them boons and ailments.
+
+*Cosmic Scale* (can be found at https://chloemb.github.io/352project/)
+
+This game was created by myself and my fellow students, primarily for those who have motor disadvantages that dont allow them to easily use standard controllers. Instead this game is controlled using a player's vocal pitch in real time, which lets a user play the game regardless of any motor disadvantages. It was developed for CS 352 at Northwestern University.
 
 *KRR Character Creator* (can be found at https://github.com/chloemb/krr_final_project)
 
