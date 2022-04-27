@@ -5,7 +5,7 @@ Here is a selection of the games, tools, and projects that I have had the pleasu
  
 <h1>Bastion Manor</h1>
 
-<img src="docs/assets/images/ResuMaybe Materials.jpg">
+<img src="docs/assets/images/Bastion Manor Logo-1.png.png">
 
 <h3> </h3>
 
@@ -18,7 +18,7 @@ Bastion Manor is a combination puzzle game and podcast series about a haunted ho
 
 <h3>  </h3> 
 
-<h3> My Role : </h3> Game Design, Narrative Design, Writing, Voice Acting, Audio Production, Quality Assurance  
+<h3> My Role : </h3> Game Design, Narrative Design, Writing, Voice Acting (Voice of Bastion Manor), Audio Production, Quality Assurance  
 
 <h3>  </h3> 
 
@@ -27,7 +27,10 @@ Bastion Manor is a combination puzzle game and podcast series about a haunted ho
 <h3>  </h3> 
 
 <h3> Find More : </h3> 
-Bastion Manor is free to play and listen to [here](https://jamesmartini.itch.io/bastion-manor) (use the password "bastion"), and the scripts I wrote are available [here](https://drive.google.com/drive/folders/1JLT-702vZ0E-lhqnwVHlqW2OcNgdbOwZ?usp=sharing). 
+
+Bastion Manor is free to play and listen to [here](https://jamesmartini.itch.io/bastion-manor) with the password "bastion". 
+
+The scripts I wrote are available [here](https://drive.google.com/drive/folders/1JLT-702vZ0E-lhqnwVHlqW2OcNgdbOwZ?usp=sharing). 
 
 
  ---
