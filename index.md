@@ -30,7 +30,7 @@ ResuMaybe is a resume-building tabletop roleplaying game, where you play as eith
 
 <h3> Find More : </h3> 
 
-The game is available [here](https://heliosraapollo.itch.io/resumaybe), and is currently undergoing further development. 
+ResuMaybe is free to play [here](https://heliosraapollo.itch.io/resumaybe), and is currently undergoing further development. 
 
 
  ---
