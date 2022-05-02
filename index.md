@@ -37,7 +37,7 @@ ResuMaybe is free to play [here](https://heliosraapollo.itch.io/resumaybe), and 
  
 <h1>Bastion Manor</h1>
 
-<img src="docs/assets/images/Bastion Manor Logo-1.png.png">
+<img src="docs/assets/images/Bastion Manor Logo-1.png">
 
 <h3> </h3>
 
@@ -68,7 +68,7 @@ The scripts I wrote are available [here](https://drive.google.com/drive/folders/
  
  <h1>Flocking Hell</h1>
 
-<img src="docs/assets/images/Flocking Hell Logo-1.png.png">
+<img src="docs/assets/images/Flocking Hell Logo-1.png">
 
 <h3> Description : </h3>
 
@@ -184,7 +184,7 @@ More information can be found [here](https://chloemb.github.io/352project/).
 
 <h3>KRR Character Creator</h3>
 
-<img src="./docs/assets/images/KRR Character Creator Logo-1.png.png">
+<img src="./docs/assets/images/KRR Character Creator Logo-1.png">
 
 <h3> Description : </h3> 
 A character generator for the tabletop roleplaying game Dungeons & Dragons (5th edition) developed by myself and my fellow students. It runs off a series of of queries made on a custom language centered knowledge base.  
