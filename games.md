@@ -1,3 +1,6 @@
-<button type="button" style="width:60p; heigh:30p;"> Games </button>
-<button type="button"> Writing </button>
-<button type="button"> Coding </button>
+
+### [Games](https://jackwarshaw.github.io/Jacks-Personal-Work/games)
+
+### [Writing](https://jackwarshaw.github.io/Jacks-Personal-Work/writing)
+
+### [Coding](https://jackwarshaw.github.io/Jacks-Personal-Work/coding)
