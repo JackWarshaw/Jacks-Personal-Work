@@ -33,7 +33,7 @@ Bastion Manor is free to play and listen to [here](https://jamesmartini.itch.io/
 The scripts I wrote are available [here](https://drive.google.com/drive/folders/1JLT-702vZ0E-lhqnwVHlqW2OcNgdbOwZ?usp=sharing). 
 
 
-<h3>Cosmic Scale</h3>
+<h1>Cosmic Scale</h1>
 
 ![Cosmic Scale](./docs/assets/images/CosmicScale.png)
 
@@ -63,7 +63,7 @@ More information can be found [here](https://chloemb.github.io/352project/).
 
 
 
-<h3>KRR Character Creator</h3>
+<h1>KRR Character Creator</h1>
 
 <img src="./docs/assets/images/KRR Character Creator Logo-1.png">
 
@@ -94,7 +94,7 @@ More information can be found [here](https://github.com/chloemb/krr_final_projec
 
 
 
-<h3>Udacity Classwork</h3>
+<h1>Udacity Classwork</h1>
 
 <h3> Description : </h3> 
 This is the work I compiled for my Udacity nanodegree, AI for Healthcare. This includes a Tensorflow based selection system to find the ideal candidates for testing a diabetes drug based on medical files, a segmentation algorithm to ease doctors finding the location and volume of the hippocampus in 3d medical images, and a predictive model for the presence of Pneumonia in x-rays to give greater clinician priority to higher risk patients.  
