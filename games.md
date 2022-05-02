@@ -125,7 +125,7 @@ Video and image samples of the game can be found [here](https://github.com/JackW
 
 
 
-<h3>Cosmic Scale</h3>
+<h1>Cosmic Scale</h1>
 
 ![Cosmic Scale](./docs/assets/images/CosmicScale.png)
 
