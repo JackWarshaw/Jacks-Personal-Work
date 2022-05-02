@@ -1,5 +1,3 @@
-layout: page
-title: "Personal Portfolio - Games"
-permalink: /Games/
-
-<h1> Hi! Testing out some changes to my portfolio </h1>
+<button type="button"> Games </button>
+<button type="button"> Writing </button>
+<button type="button"> Coding </button>
