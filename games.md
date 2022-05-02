@@ -5,6 +5,15 @@ Here's a selection of my work as a game developer, writer, and programmer. I hop
 
 ## [==> Games](https://jackwarshaw.github.io/Jacks-Personal-Work/games)
 
+
+
+
+
 ## [==> Writing](https://jackwarshaw.github.io/Jacks-Personal-Work/writing)
 
+
+
+
+
 ## [==> Coding](https://jackwarshaw.github.io/Jacks-Personal-Work/coding)
+
