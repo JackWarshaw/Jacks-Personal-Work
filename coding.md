@@ -33,6 +33,39 @@ Bastion Manor is free to play and listen to [here](https://jamesmartini.itch.io/
 The scripts I wrote are available [here](https://drive.google.com/drive/folders/1JLT-702vZ0E-lhqnwVHlqW2OcNgdbOwZ?usp=sharing). 
 
 
+---
+
+
+<h1>.500</h1>
+
+![.500](./docs/assets/images/500_Sample_1.gif)
+
+<h3> Description :</h3> .500 is a 2D platformer built in Unity, and was heavily inspired by the New York City subway system, Lethal League, and Earthbound.  You're late to Interdimensional Baseball practice, and to make matters worse you lost all your gear! Make your way from station to station as you reclaim your equipment, and if you're lucky you might even make it to practice on time.
+
+<h3>  </h3>  
+
+<h3> The Team : </h3> Emmet Hilly, John Murawski  
+
+<h3>  </h3>  
+
+<h3> My Role : </h3>  Level Designer, Mechanics Designer, Narrative Designer  
+
+<h3>  </h3> 
+
+<h3> Status : </h3> Student Project for Northwestern University, Not Publicly Available  
+
+<h3>  </h3> 
+
+<h3> Find More : </h3> 
+
+Video and image samples of the game can be found [here](https://github.com/JackWarshaw/Jacks-Personal-Work/tree/main/500-samples).
+
+
+
+---
+
+
+
 <h1>Cosmic Scale</h1>
 
 ![Cosmic Scale](./docs/assets/images/CosmicScale.png)
