@@ -48,7 +48,7 @@ The scripts I wrote are available [here](https://drive.google.com/drive/folders/
 
 <h3>  </h3>  
 
-<h3> My Role : </h3>  Level Designer, Mechanics Designer, Narrative Designer  
+<h3> My Role : </h3>  Level Design, Mechanics Design, Narrative Design  
 
 <h3>  </h3> 
 
@@ -78,7 +78,7 @@ Video and image samples of the game can be found [here](https://github.com/JackW
 
 <h3>  </h3> 
 
-<h3> My Role : </h3> Game Designer, Audio Engineer, Programmer  
+<h3> My Role : </h3> Game Design, Audio Engineering, Programming
 
 <h3>  </h3> 
 
@@ -109,7 +109,7 @@ A character generator for the tabletop roleplaying game Dungeons & Dragons (5th 
 
 <h3>  </h3> 
 
-<h3> My Role : </h3> Logic Designer, Software Devloper  
+<h3> My Role : </h3> Logic Design, Programming  
 
 <h3>  </h3> 
 
@@ -134,7 +134,7 @@ This is the work I compiled for my Udacity nanodegree, AI for Healthcare. This i
 
 <h3>  </h3> 
 
-<h3> My Role : </h3> Software Developer  
+<h3> My Role : </h3> Programming 
 
 <h3>  </h3> 
 
