@@ -46,7 +46,7 @@ The scripts I wrote are available [here](https://drive.google.com/drive/folders/
 
 <h3>  </h3> 
 
-<h3> My Role : </h3> Writer, Creator  
+<h3> My Role : </h3> Writing, Pre-Production
 
 <h3>  </h3> 
 
