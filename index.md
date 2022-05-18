@@ -19,4 +19,4 @@ Here's a selection of my work as a game developer, writer, and programmer. I hop
 
 ----
 
-## [==> Resume](https://www.linkedin.com/in/jack-warshaw-00289b126/details/featured/)
+## [==> Resume](https://docs.google.com/document/d/10FdnkK4xwVWXgs2khXwUGWNUB_CtDPHAmnI-eEpOiP0/edit?usp=sharing)
