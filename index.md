@@ -17,3 +17,6 @@ Here's a selection of my work as a game developer, writer, and programmer. I hop
 
 ## [==> Coding](https://jackwarshaw.github.io/Jacks-Personal-Work/coding)
 
+----
+
+## [==> Resume](https://www.linkedin.com/in/jack-warshaw-00289b126/details/featured/)
