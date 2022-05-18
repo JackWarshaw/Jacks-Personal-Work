@@ -1,5 +1,4 @@
-# Personal Portfolio
-Here is a selection of the games, tools, and projects that I have had the pleasure of working on, both technical and creative. I hope you enjoy!
+# Writing Portfolio
 <br>
  
 <h1>Bastion Manor</h1>
