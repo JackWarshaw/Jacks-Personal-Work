@@ -1,5 +1,4 @@
 # Games Portfolio
-## [Home]()
 <br>
  
 <h1>ResuMaybe</h1>
@@ -149,4 +148,4 @@ Video and image samples of the game can be found [here](https://github.com/JackW
 More information can be found [here](https://chloemb.github.io/352project/).
 
 
-
+## [<== Back](https://jackwarshaw.github.io/Jacks-Personal-Work/)
