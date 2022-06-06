@@ -58,9 +58,9 @@ Bastion Manor is a combination puzzle game and podcast series about a haunted ho
 
 <h3> Find More : </h3> 
 
-Bastion Manor is free to play and listen to [here](https://jamesmartini.itch.io/bastion-manor) with the password "bastion". 
+The alpha build for Bastion Manor is free to play and listen to [here](https://jamesmartini.itch.io/bastion-manor) with the password "bastion". 
 
-The scripts I wrote are available [here](https://drive.google.com/drive/folders/1JLT-702vZ0E-lhqnwVHlqW2OcNgdbOwZ?usp=sharing). 
+The scripts I wrote for Bastion Manor are available [here](https://drive.google.com/drive/folders/1JLT-702vZ0E-lhqnwVHlqW2OcNgdbOwZ?usp=sharing). 
 
  ---
  
