@@ -26,7 +26,7 @@ Bastion Manor is a combination puzzle game and podcast series about a haunted ho
 
 <h3> Find More : </h3> 
 
-Bastion Manor is free to play and listen to [here](https://jamesmartini.itch.io/bastion-manor) with the password "bastion". 
+The alpha build for Bastion Manor is free to play and listen to [here](https://jamesmartini.itch.io/bastion-manor) with the password "bastion". 
 
 The scripts I wrote are available [here](https://drive.google.com/drive/folders/1JLT-702vZ0E-lhqnwVHlqW2OcNgdbOwZ?usp=sharing). 
 
@@ -41,11 +41,11 @@ The scripts I wrote are available [here](https://drive.google.com/drive/folders/
 
 <h3> </h3>
 
-<h3> Description : </h3> Created during my time with The Gotham Film and Media Institue, "Hey Aida!" is an animated series about a dysfunctional virtual assistant. Currently there is a full length presentation and pitch deck for the series, and the pilot is in development.  
+<h3> Description : </h3> Created during my time with The Gotham Film and Media Institue, "Hey Aida!" is a potential animated series about a dysfunctional virtual assistant. Currently there is a full length presentation and pitch deck for the series, and the pilot is undergoing revisions.  
 
 <h3>  </h3> 
 
-<h3> My Role : </h3> Writing, Pre-Production
+<h3> My Role : </h3> Writing, Show Running
 
 <h3>  </h3> 
 
