@@ -97,6 +97,8 @@ You can find out more information as we continue the game's development on the g
 
 ![.500](./docs/assets/images/500_Sample_1.gif)
 
+<iframe src="https://www.youtube.com/watch?v=vCUaTwgwivM&ab_channel=ChloeB" frameborder="0"> </iframe>
+
 <h3> Description :</h3> .500 is a 2D platformer built in Unity, and was heavily inspired by the New York City subway system, Lethal League, and Earthbound.  You're late to Interdimensional Baseball practice, and to make matters worse you lost all your gear! Make your way from station to station as you reclaim your equipment, and if you're lucky you might even make it to practice on time.
 
 <h3>  </h3>  
