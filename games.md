@@ -48,7 +48,7 @@ Bastion Manor is a combination puzzle game and podcast series about a haunted ho
 
 <h3>  </h3> 
 
-<h3> My Role : </h3> Game Design, Narrative Design, Writing, Voice Acting (Voice of Bastion Manor), Audio Production, Quality Assurance  
+<h3> My Role : </h3> Game Design, Narrative Design, Writing, Voice Acting (Voice of Bastion Manor), Audio Production, Quality Assurance, Coding  
 
 <h3>  </h3> 
 
