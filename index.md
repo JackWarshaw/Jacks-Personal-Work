@@ -1,5 +1,5 @@
 # Personal Portfolio
-Here's a selection of my work as a game developer, writer, and programmer. I hope you enjoy, and if you have any comments feel free to reach out at jackwarshaw10@gmail.com .
+Here's a selection of my work as a game designer, writer, and programmer. I hope you enjoy, and if you have any comments feel free to reach out at jackwarshaw10@gmail.com .
 
 ----
 
