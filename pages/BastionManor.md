@@ -12,6 +12,8 @@ Bastion Manor is a combination puzzle game and podcast series about a haunted ho
 <h3> Process : </h3>
 For Bastion Manor, we began with planning the general story of the game and podcast series, as this would then inform not only the scripts for the podcast episodes, but the overall design of the levels within the Manor itself. After we had the overarching plan and themes, I and our other narrative designers worked on building out the character bios for our potential guests and for our host. After finalizing characters, I worked to modify puzzles built by our other designers to fit their themeing. My duties were then split between resolving bugs we had found during development and producing episodes of the accompanying podcast, acting as a writer, script editor, and voice actor for the latter. While we awaited the designs final puzzle rooms we wrapped production on the podcast episodes for the completed rooms, and I assisted in making final alterations to the game before its release on itch.io. 
 
+<h3> </h3>
+
 Currently, I am working to implement the designs for the final puzzle rooms, and to build a system that natively hosts the podcast episodes in the game itself.
 
 <h3> </h3>
