@@ -14,7 +14,7 @@ For Bastion Manor, we began with planning the general story of the game and podc
 
 <h3> </h3>
 
-My duties were then split between resolving bugs we had found during development and producing episodes of the accompanying podcast, acting as a writer, script editor, and voice actor for the latter. One particular hurdle we encountered at this phase was ensuring character consistency across the scripts. Our other writer (Raymond Lothian) and myself met on numerous occassions to ensure a consistency of character voice for our show's host, Bastion Manor, and we compiled all our notes and character bios into documentation that allowed for quick reference when writing and recording. While we awaited the designs final puzzle rooms we wrapped production on the podcast episodes for the completed rooms, and I assisted in making the final alterations to the game's code before its release on itch.io. 
+My duties were then split between resolving bugs we had found during development and producing episodes of the accompanying podcast, acting as a writer, script editor, and voice actor for the latter. One particular hurdle we encountered at this phase was ensuring character consistency across the scripts. Our other writer (Raymond Lothian) and I met on numerous occassions to ensure a consistency of character voice for our show's host, Bastion Manor, and we compiled all our notes and character bios into documentation that allowed for quick reference when writing and recording. While we awaited the designs final puzzle rooms we wrapped production on the podcast episodes for the completed rooms, and I assisted in making the final alterations to the game's code before its release on itch.io. 
 
 <h3> </h3>
 
