@@ -35,7 +35,7 @@ The team intends to produce further updates to ResuMaybe, adding new jobs, exper
 
 <h3>  </h3>
 
-<h3> Status : </h3> Student Project for NYU, In Development 
+<h3> Status : </h3> Student Project for NYU, Released
 
 <h3>  </h3> 
 
