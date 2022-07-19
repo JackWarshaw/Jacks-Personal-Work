@@ -16,7 +16,7 @@ We began building ResuMaybe by ideating on its gameplay loop, building out sever
 
 <h3> </h3>
 
-Once we hammered down the structure of our gameplay loop, we branched out into different disciplines. I, along with other narrative team members, wrote and edited the rules of the game, along with the various prompts, questions, and bios that would come up in play. Others manufactured the cards and playsheets, which were then used in player testing facilitated by yet more members. After rigorous testing, we fine tuned the mechanics and visuals of ResuMaybe, and launched it on itch.io .  
+Once we finalized the structure of our gameplay loop, we branched out into different disciplines. I, along with other narrative team members, wrote and edited the rules of the game, along with the various prompts, questions, and bios that would come up in play. Others manufactured the cards and playsheets, which were then used in player testing facilitated by yet more members. After rigorous testing, we fine tuned the mechanics and visuals of ResuMaybe, and launched it on itch.io .  
 
 <h3>  </h3>
 
