@@ -124,7 +124,7 @@ Going forward, the team looks to create more polished versions of the game's art
 
 <h3>  </h3> 
 
-<h3> Status : </h3> In Development  
+<h3> Status : </h3> Released, Updates Pending    
 
 <h3>  </h3> 
 
