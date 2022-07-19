@@ -113,7 +113,7 @@ Going forward, the team looks to create more polished versions of the game's art
 
 <h3>  </h3> 
 
-<h3> Status : </h3> In Development  
+<h3> Status : </h3> Released, Updates Pending    
 
 <h3>  </h3> 
 
@@ -160,7 +160,7 @@ The team intends to produce further updates to ResuMaybe, adding new jobs, exper
 
 <h3>  </h3>
 
-<h3> Status : </h3> Student Project for NYU, In Development 
+<h3> Status : </h3> Student Project for NYU, Released 
 
 <h3>  </h3> 
 
