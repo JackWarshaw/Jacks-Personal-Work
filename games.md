@@ -23,7 +23,11 @@ ResuMaybe is a resume-building tabletop roleplaying game, where you play as eith
 
 <h3> Process : </h3> 
 
-During the initial production for ResuMaybe, my main task was working alongside the other designers as we developed the initial play pattern. We decided to structure the game in ways that would invoke clear parity to the actual process of searching for a job, invoking touchstones like pre-prepared interview questions. This served as a point of difficulty during development, as we wanted to provide clear guidance for the Interviewer role without Applicants getting the same sets of questions for the same role. While we initially considered questions that could work for any job role, we instead decided on a list of themed questions and generic questions that the interviewer could select form at random, again reflecting the both highly specific and open ended nature of many actual professional interviews. This also provided another opportunity to heavily theme the game around the interview questions, a challenge which I took on along with several other narrative designers. After iterating through the wide variety of Interviewer Questions and Applicant Attributes, we ended up with the current version of ResuMaybe!
+During the initial production for ResuMaybe, my main task was working alongside the other designers as we developed the initial play pattern. We decided to structure the game in ways that would invoke clear parity to the actual process of searching for a job, invoking touchstones like pre-prepared interview questions. This served as a point of difficulty during development, as we wanted to provide clear guidance for the Interviewer role without Applicants getting the same sets of questions for the same role. 
+
+<h3>  </h3> 
+
+While we initially considered questions that could work for any job role, we instead decided on a list of themed questions and generic questions that the interviewer could select form at random, again reflecting the both highly specific and open ended nature of many actual professional interviews. This also provided another opportunity to heavily theme the game around the interview questions, a challenge which I took on along with several other narrative designers. After iterating through the wide variety of Interviewer Questions and Applicant Attributes, we ended up with the current version of ResuMaybe!
 
 <h3> </h3>
 
@@ -65,15 +69,15 @@ Flocking Hell, awarded **Best Non-Digital Game** at the NYU Global Game Jam 2022
 
 <h3> Process : </h3>
 
-We started the NYU Global Game Jam 2022 with group ideation, utilizing tools like Google Jamboard to easily conceptualize and share our ideas. We discussed various methods of ideation, and settled on a component based system in which we combined themes and potential mechanics that different members of the group had noted interest in. We then presented to each other on the concepts we had built, and decided on a werewolf themed game that utilized multiple boards and pieces with synchronized movement. Later on in development, the theming was changed to better represent the frantic and chaos inducing mechanics of the game, and it became a game about organizing flocks of birds in Hell. 
+During the NYU Global Game Jam (2022), I worked alongside several novice designers to build out Flocking Hell. Though the process of ideation and early development in itself proved fruitful for our team, it also allowed me to test several ideation structures that I had personally developed, including one that I still use in teaching introductory game design students and in my own game making. After running the group through this ideation process and through discussion, roles and responsbilities were assigned to the various group members.  
 
 <h3> </h3> 
 
-Once we had agreed on the overall concept of Flocking Hell, we started to write the rules. Given the time constraints of the event, we decided to create simplified environments and tokens, instead focusing on fine tuning the unique mechanics and character of the game. As we worked predominantly asynchronously, we utilized various notetaking systems to keep track of potential development issues, one of which was particularly successful for us. After one designer noted the potential Issue, any of us could determine what the Source of the issue may be, how the Effects of the problem might change the gameplay from our intentions, and what sort of Solutions we might have. With this system, we were able to complete production on Flocking Hell, and won **Best Non-Digital Game**. 
+Given the time constraints of the event, we decided to create simplified environments and tokens, instead focusing on fine tuning the unique mechanics and narative theming of the game. As we worked predominantly asynchronously, we utilized various notetaking systems (Trello, Jira) to keep track of potential development issues. After developing an initial prototype we submitted Flocking Hell, and won **Best Non-Digital Game**. 
 
 <h3>  </h3> 
 
-Going forward, the team looks to create more polished versions of the game's art, and to adjust the game's mechanics based on playtester feedback. 
+Going forward, the team looks to create more polished versions of the game's art, and adjust the game's mechanics based on playtester feedback. 
 
 <h3>  </h3> 
 
@@ -100,7 +104,7 @@ You can find out more information as we continue the game's development on the g
 
 <h3>  </h3>  
 
-<h3> My Role : </h3>  Level Design, Mechanics Design, Narrative Design  
+<h3> My Role : </h3>  Level Design, Mechanics Design, Narrative Design, Background Art & Tile Sets  
 
 <h3>  </h3> 
 
@@ -159,7 +163,7 @@ Bastion Manor is a combination puzzle game and podcast series about a haunted ho
 
 <h3>  </h3> 
 
-<h3> My Role : </h3> Game Design, Narrative Design, Writing, Voice Acting (Voice of Bastion Manor), Audio Production, Quality Assurance, Coding  
+<h3> My Role : </h3> Game Design, Narrative Design, Writing, Voice Acting (Voice of Bastion Manor), Audio Production, Quality Assurance
 
 <h3>  </h3> 
 

@@ -1,6 +1,37 @@
 # Writing Portfolio
 <br>
  
+<h1>Hey Aida!</h1>
+
+<img src="./docs/assets/images/Hey_Aida_Presentation_Slide.png">
+
+<h3> </h3>
+
+<h3> Description : </h3> Created during my time with The Gotham Film and Media Institue, "Hey Aida!" is a potential animated series about a dysfunctional virtual assistant. Currently there is a full length presentation and pitch deck for the series, and the pilot is undergoing revisions.  
+
+<h3>  </h3> 
+
+<h3> My Role : </h3> Writing, Show Running
+
+<h3>  </h3> 
+
+<h3> Process : </h3>
+
+I came up with the idea for "Hey Aida!" during group ideation with The Gotham EDU cohort of 2021. Originally, the premise was based around a therapist minotaur that would help monsters with their various issues, though eventually the minotaur changed to an AI and the monsters became people in a virtual world. After consulting with mentors in the program, the AI's role as a therapist was refined to that of a digital assistant, and "Hey Aida!" became what it is today. 
+
+<h3> </h3> 
+
+<h3> Status : </h3> In Development  
+
+<h3>  </h3> 
+
+<h3> Find More : </h3> 
+
+The pitch deck for "Hey Aida!" can be found in [here]( https://www.canva.com/design/DAElXVUasew/i11icLHf3PQJlpQBXQd-3Q/view?utm_content=DAElXVUasew&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink).
+
+
+---
+
 <h1>Bastion Manor</h1>
 
 <img src="docs/assets/images/Bastion Manor Logo-1.png">
@@ -48,38 +79,6 @@ The scripts I wrote for Bastion Manor are available [here](https://drive.google.
  ---
 
 
-<h1>Hey Aida!</h1>
-
-<img src="./docs/assets/images/Hey_Aida_Presentation_Slide.png">
-
-<h3> </h3>
-
-<h3> Description : </h3> Created during my time with The Gotham Film and Media Institue, "Hey Aida!" is a potential animated series about a dysfunctional virtual assistant. Currently there is a full length presentation and pitch deck for the series, and the pilot is undergoing revisions.  
-
-<h3>  </h3> 
-
-<h3> My Role : </h3> Writing, Show Running
-
-<h3>  </h3> 
-
-<h3> Process : </h3>
-
-I came up with the idea for "Hey Aida!" during group ideation with The Gotham EDU cohort of 2021. Originally, the premise was based around a therapist minotaur that would help monsters with their various issues, though eventually the minotaur changed to an AI and the monsters became people in a virtual world. After consulting with mentors in the program, the AI's role as a therapist was refined to that of a digital assistant, and "Hey Aida!" became what it is today. 
-
-<h3> </h3> 
-
-<h3> Status : </h3> In Development  
-
-<h3>  </h3> 
-
-<h3> Find More : </h3> 
-
-The pitch deck for "Hey Aida!" can be found in [here]( https://www.canva.com/design/DAElXVUasew/i11icLHf3PQJlpQBXQd-3Q/view?utm_content=DAElXVUasew&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink).
-
-
----
-
-
 
  <h1>Flocking Hell</h1>
 
@@ -101,11 +100,11 @@ Flocking Hell, awarded **Best Non-Digital Game** at the NYU Global Game Jam 2022
 
 <h3> Process : </h3>
 
-We started the NYU Global Game Jam 2022 with group ideation, utilizing tools like Google Jamboard to easily conceptualize and share our ideas. We discussed various methods of ideation, and settled on a component based system in which we combined themes and potential mechanics that different members of the group had noted interest in. We then presented to each other on the concepts we had built, and decided on a werewolf themed game that utilized multiple boards and pieces with synchronized movement. Later on in development, the theming was changed to better represent the frantic and chaos inducing mechanics of the game, and it became a game about organizing flocks of birds in Hell. 
+During the NYU Global Game Jam (2022), I worked alongside several novice designers to build out Flocking Hell. Though the process of ideation and early development in itself proved fruitful for our team, it also allowed me to test several ideation structures that I had personally developed, including one that I still use in teaching introductory game design students and in my own game making. After running the group through this ideation process and through discussion, roles and responsbilities were assigned to the various group members.  
 
 <h3> </h3> 
 
-Once we had agreed on the overall concept of Flocking Hell, we started to write the rules. Given the time constraints of the event, we decided to create simplified environments and tokens, instead focusing on fine tuning the unique mechanics and character of the game. As we worked predominantly asynchronously, we utilized various notetaking systems to keep track of potential development issues, one of which was particularly successful for us. After one designer noted the potential Issue, any of us could determine what the Source of the issue may be, how the Effects of the problem might change the gameplay from our intentions, and what sort of Solutions we might have. With this system, we were able to complete production on Flocking Hell, and won **Best Non-Digital Game**. 
+Given the time constraints of the event, we decided to create simplified environments and tokens, instead focusing on fine tuning the unique mechanics and narative theming of the game. As we worked predominantly asynchronously, we utilized various notetaking systems (Trello, Jira) to keep track of potential development issues. After developing an initial prototype we submitted Flocking Hell, and won **Best Non-Digital Game**. 
 
 <h3>  </h3> 
 
@@ -148,11 +147,11 @@ ResuMaybe is a resume-building tabletop roleplaying game, where you play as eith
 
 <h3> Process : </h3> 
 
-We began building ResuMaybe by ideating on its gameplay loop, building out several ways that we could create an interview experience with automatically generated resumes. Our biggest hurdle at this time was the Question phase. While our original idea was to have Interviewers randomly draw cards that would contain questions for the Applicants, we realized this would give players little information on the job they were interviewing for and would potentially not even be relevant to the Interviewer. Instead, we opted for several questions that were developed for each position, with some being shared between positions so more experienced players could not easily determine what the position was. However, the Applicant questions remained universal as to not further challenge the Applicants in determinding the open position. 
+During the initial production for ResuMaybe, my main task was working alongside the other designers as we developed the initial play pattern. We decided to structure the game in ways that would invoke clear parity to the actual process of searching for a job, invoking touchstones like pre-prepared interview questions. This served as a point of difficulty during development, as we wanted to provide clear guidance for the Interviewer role without Applicants getting the same sets of questions for the same role. 
 
-<h3> </h3>
+<h3>  </h3> 
 
-Once we finalized the structure of our gameplay loop, we branched out into different disciplines. I, along with other narrative team members, wrote and edited the rules of the game, along with the various prompts, questions, and bios that would come up in play. Others manufactured the cards and playsheets, which were then used in player testing facilitated by yet more members. After rigorous testing, we fine tuned the mechanics and visuals of ResuMaybe, and launched it on itch.io .  
+While we initially considered questions that could work for any job role, we instead decided on a list of themed questions and generic questions that the interviewer could select form at random, again reflecting the both highly specific and open ended nature of many actual professional interviews. This also provided another opportunity to heavily theme the game around the interview questions, a challenge which I took on along with several other narrative designers. After iterating through the wide variety of Interviewer Questions and Applicant Attributes, we ended up with the current version of ResuMaybe! 
 
 <h3>  </h3>
 

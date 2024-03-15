@@ -61,7 +61,7 @@ The scripts I wrote for Basion Manor are available [here](https://drive.google.c
 
 <h3>  </h3>  
 
-<h3> My Role : </h3>  Level Design, Mechanics Design, Narrative Design  
+<h3> My Role : </h3>  Level Design, Mechanics Design, Narrative Design, Background Art & Tile Sets  
 
 <h3>  </h3> 
 
