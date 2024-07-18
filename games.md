@@ -176,12 +176,12 @@ My duties were then split between resolving several small technical bugs we had 
 
 <h3> </h3>
 
-Currently, the team is working to implement the designs for the final puzzle rooms, resolve some final bugs, and to build a system that natively hosts the podcast episodes within the game itself.
+While the team plans to return to the project at a later date to finish the planned levels, active development is currently paused while plans to reformat the narrative structure of the game are underway. 
 
 <h3> </h3>
 
 
-<h3> Status : </h3> Student Project for NYU, In Development 
+<h3> Status : </h3> Student Project for NYU, Alpha
 
 <h3>  </h3> 
 
