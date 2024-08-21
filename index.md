@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Redirecting to new Portfolio...</title>
+    <h1>Redirecting to new Portfolio...</h1>
     <link rel="canonical" href="https://jackwarshawgames.weebly.com/" />
     <meta charset="utf-8" />
     <meta http-equiv="refresh" content="0; url=https://jackwarshawgames.weebly.com/" />
   </head>
   <body>
-    <p>Redirecting to new Portfolio...</p>
+    <p>If it takes longer than 10 seconds, <a href="https://jackwarshawgames.weebly.com/">click here!</a></p>
   </body>
 </html>
