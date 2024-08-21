@@ -2,12 +2,11 @@
 <html>
   <head>
     <title>Redirecting...</title>
+    <link rel="canonical" href="https://google.com" />
+    <meta charset="utf-8" />
+    <meta http-equiv="refresh" content="0; url=https://google.com" />
   </head>
   <body>
     <p>Redirecting...</p>
   </body>
 </html>
-
-<script>
-   window.location.assign('google.com');
-</script>
